@@ -7,3 +7,14 @@
 //re-declared - nadpisana
 
 //NaN - not a number
+
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+//SHORT IF STATEMENT
+
+// x ? y = z
+
+//example:
+//var hasName = (name === 'true') ? 'Y' : 'N';
+
+// condition - (name === 'true')
