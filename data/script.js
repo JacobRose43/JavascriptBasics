@@ -41,10 +41,10 @@
 //example: variable.length;
 //*without brackets, embed method
 
-//string replace
+//string replace()
 //example: variable.replace("ketchup", 'mustard');
 
-//string slice
+//string slice()
 //const str = "The quick brown fox jumps over the lazy dog.";
 //example: str.slice(31);
 //output: "the lazy dog."
@@ -54,3 +54,15 @@
 
 //example: str.slice(-4);
 //output: "dog."
+
+//string trim()
+//example: const str = "   Hi!   ";
+//str.trim();
+//output: "Hi!";
+
+//string substring()
+//const str = 'Mozilla';
+//str.substring(1, 3);
+//output: "oz"
+//str.substring(2);
+//output: "zilla"
