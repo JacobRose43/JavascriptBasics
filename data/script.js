@@ -18,3 +18,17 @@
 //var hasName = (name === 'true') ? 'Y' : 'N';
 
 // condition - (name === 'true')
+
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+//VARIABLE NAMING, example:
+
+//GOOD WAY:
+// let userInputNumber
+// let user
+// const changeGameMode
+
+//WRONG WAY:
+// let SwitchStatement
+// let Disbaled_BuTtOn_1
+// const 3Form
