@@ -32,3 +32,25 @@
 // let SwitchStatement
 // let Disbaled_BuTtOn_1
 // const 3Form
+
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+//STRING METHODS
+
+//string length
+//example: variable.length;
+//*without brackets, embed method
+
+//string replace
+//example: variable.replace("ketchup", 'mustard');
+
+//string slice
+//const str = "The quick brown fox jumps over the lazy dog.";
+//example: str.slice(31);
+//output: "the lazy dog."
+
+//example: str.slice(40, 44);
+//output: "dog."
+
+//example: str.slice(-4);
+//output: "dog."
