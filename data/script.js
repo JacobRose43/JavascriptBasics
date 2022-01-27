@@ -66,3 +66,32 @@
 //output: "oz"
 //str.substring(2);
 //output: "zilla"
+
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+//ARRAY METHODS
+
+let movieLine = ["tom", "nancy"];
+movieLine.push("oliver");
+//add elements to the end of the ARRAY
+
+movieLine.pop();
+//remove element from the end of the ARRAY
+
+movieLine.shift();
+//remove element from the beginning of the ARRAY
+
+movieLine.unshift("joseph");
+//add elements to the beginning of the ARRAY
+//
+
+//MORE COMMON METHODS
+//
+//concat - merge array
+//includes - look for a value
+//indexOf - just like string.indexOf
+//join - creates a string from an array
+//reverse - reverse an array
+//slice - copies a portion on an array
+//splice - removes/replaces elements
+//sort - sorts an array
