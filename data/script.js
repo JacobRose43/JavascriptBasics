@@ -95,3 +95,36 @@ movieLine.unshift("joseph");
 //slice - copies a portion on an array
 //splice - removes/replaces elements
 //sort - sorts an array
+
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+//OBJECTS
+
+//examples
+
+var order = {
+	name: "toilet paper",
+	amount: 15,
+	price: 8.99,
+	company: "Linteo",
+	ratings: [
+		{
+			userName: "Torroto321",
+			accountLevel: 15,
+			rate: 5,
+		},
+		{
+			userName: "Sausage2",
+			accountLevel: 50,
+			rate: 8,
+		},
+		{
+			userName: "Ponton3000",
+			accountLevel: 3,
+			rate: 10,
+		},
+	],
+};
+
+order.ratings[1].userName = "Onion5";
+order["amount"] = 5;
