@@ -102,7 +102,7 @@ movieLine.unshift("joseph");
 
 //examples
 
-var order = {
+let order = {
 	name: "toilet paper",
 	amount: 15,
 	price: 8.99,
@@ -127,4 +127,12 @@ var order = {
 };
 
 order.ratings[1].userName = "Onion5";
-order["amount"] = 5;
+order.amount = 5;
+order.quality = "Very Good";
+order.slices = 4;
+
+console.log(order);
+
+for (let i = 0; i < order.ratings.length; i++) {
+	console.log(order.ratings[i]);
+}
