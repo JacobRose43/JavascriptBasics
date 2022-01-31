@@ -136,3 +136,5 @@ console.log(order);
 for (let i = 0; i < order.ratings.length; i++) {
 	console.log(order.ratings[i]);
 }
+
+//for in  for objects, learn!!!!!!!!!!!!!!!!
