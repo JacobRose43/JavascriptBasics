@@ -199,3 +199,7 @@ console.log("\n\nObject Values:\n" + Object.values(testScores));
 console.log("\n\nObject Entries:\n" + Object.entries(testScores));
 
 console.log("\n================================\n");
+
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+//FUNCTIONS
