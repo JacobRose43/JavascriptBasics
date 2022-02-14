@@ -19,6 +19,10 @@
 
 // condition - (name === 'true')
 
+// ANOTHER SHOFT IF STATEMENT
+
+// e.target.nodeName === 'LI' ?? e.target.remove();
+
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 //VARIABLE NAMING, example:
